@@ -1,1 +1,1 @@
-# 10 days internship for govt.polytechic,kunnamkulam from 
+# 10 days internship for govt.polytechic,kunnamkulam 
