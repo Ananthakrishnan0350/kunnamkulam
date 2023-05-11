@@ -14,4 +14,4 @@ It is a sunny climate in jothys campus and lot of students in campus it is relif
 ![schematic](https://github.com/Ananthakrishnan0350/kunnamkulam/blob/main/IMG/day%203.1.png)
 #### Components Used
 ![components](https://github.com/Ananthakrishnan0350/kunnamkulam/blob/main/IMG/day%203.2.png)
-[AND gate stimulation](https://www.tinkercad.com/things/5ZM2FvjwY36-and-gate/editel)
+### [AND gate stimulation](https://www.tinkercad.com/things/5ZM2FvjwY36-and-gate/editel)
