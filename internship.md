@@ -13,4 +13,4 @@ It is a sunny climate in jothys campus and lot of students in campus it is relif
 #### Schematic Diagram
 ![schematic](https://github.com/Ananthakrishnan0350/kunnamkulam/blob/main/IMG/day%203.1.png)
 #### Components Used
-[components](https://github.com/Ananthakrishnan0350/kunnamkulam/blob/main/IMG/day%203.2.png)
+![components](https://github.com/Ananthakrishnan0350/kunnamkulam/blob/main/IMG/day%203.2.png)
