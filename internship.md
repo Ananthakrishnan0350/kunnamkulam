@@ -8,7 +8,7 @@ In day 2 we have leraned about tinkercad,it is a website that we can make our ow
 It is a sunny climate in jothys campus and lot of students in campus it is relif that we are not alone in this campus because there is project expo on is conduting here in all kerala level it is such pleasure watch new inovation by some smart students from not only jothy but also other collage students 
 ### [day 2](https://github.com/Ananthakrishnan0350/kunnamkulam/blob/main/IMG/led1.png)
 ----
-## DAY 3
+## DAY 3https://www.tinkercad.com/things/hgkn6KzBFZs-four/editel
 [day 3](https://www.tinkercad.com/things/1SX4MZ2Kp0F-terrific-hillar-blorr/editel)
 ### AND Gate 
 #### Circuit Diagram
@@ -25,7 +25,7 @@ It is a sunny climate in jothys campus and lot of students in campus it is relif
 //
 void setup()
 {
-  pinMode(LED_BUILTIN, OUTPUT);
+  pinMode(LED_BUILTIN, OUTPUT);https://www.tinkercad.com/things/hgkn6KzBFZs-four/editel
 }
 
 void loop()
@@ -65,5 +65,38 @@ void loop()
 4 LED Blinking
 ####  Diagram
 ![circuit](https://github.com/Ananthakrishnan0350/kunnamkulam/blob/main/IMG/4%20led.png)
+#### Program
+```
+// C++ code
+//
+void setup()
+{
+  pinMode(2, OUTPUT);
+  pinMode(4, OUTPUT);
+  pinMode(7, OUTPUT);
+  pinMode(8, OUTPUT);
+}
 
+void loop()
+{
+  digitalWrite(2, HIGH);
+  delay(1000); // Wait for 1000 millisecond(s)
+  digitalWrite(2, LOW);
+  delay(1000); // Wait for 1000 millisecond(s)
+  digitalWrite(4, HIGH);
+  delay(1000); // Wait for 1000 millisecond(s)
+  digitalWrite(4, LOW);
+  delay(1000); // Wait for 1000 millisecond(s)
+  digitalWrite(7, HIGH);
+  delay(1000); // Wait for 1000 millisecond(s)
+  digitalWrite(7, LOW);
+  delay(1000); // Wait for 1000 millisecond(s)
+  digitalWrite(8, HIGH);
+  delay(1000); // Wait for 1000 millisecond(s)
+  digitalWrite(8, LOW);
+  delay(1000); // Wait for 1000 millisecond(s)
+}
+```
+ ### [Stimulation](https://www.tinkercad.com/things/hgkn6KzBFZs-four/editel)
+ ---
 
