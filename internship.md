@@ -40,5 +40,26 @@ void loop()
 ---
 #### 2 LED Blinking 
 ![Two LED Blink](https://github.com/Ananthakrishnan0350/kunnamkulam/blob/main/IMG/two%20led.png)
+```// C++ code
+//
+void setup()
+{
+  pinMode(13, OUTPUT);
+  pinMode(8, OUTPUT);
+}
+
+void loop()
+{
+  digitalWrite(8, HIGH);
+  delay(1000); // Wait for 1000 millisecond(s)
+  digitalWrite(8, LOW);
+  delay(1000); // Wait for 1000 millisecond(s)
+  digitalWrite(13, HIGH);
+  delay(1000); // Wait for 1000 millisecond(s)
+  digitalWrite(13, LOW);
+  delay(1000); // Wait for 1000 millisecond(s)
+}
+```
+### [Stimulation](https://www.tinkercad.com/things/hgkn6KzBFZs-blink/editel)
 
 
