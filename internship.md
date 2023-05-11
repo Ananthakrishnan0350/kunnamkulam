@@ -15,4 +15,20 @@ It is a sunny climate in jothys campus and lot of students in campus it is relif
 #### Components Used
 ![components](https://github.com/Ananthakrishnan0350/kunnamkulam/blob/main/IMG/day%203.2.png)
 ### [AND gate stimulation](https://www.tinkercad.com/things/5ZM2FvjwY36-and-gate/editel)
-![ led blink]
+#### LED Blinking using adruno
+![ led blink](https://github.com/Ananthakrishnan0350/kunnamkulam/blob/main/IMG/blink.png)
+```// C++ code
+//
+void setup()
+{
+  pinMode(LED_BUILTIN, OUTPUT);
+}
+
+void loop()
+{
+  digitalWrite(LED_BUILTIN, HIGH);
+  delay(1000); // Wait for 1000 millisecond(s)
+  digitalWrite(LED_BUILTIN, LOW);
+  delay(1000); // Wait for 1000 millisecond(s)
+}
+```
