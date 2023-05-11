@@ -7,3 +7,4 @@ It is a sunny climate in jothys campus and lot of students in campus it is relif
 ### [day 2](https://github.com/Ananthakrishnan0350/kunnamkulam/blob/main/IMG/led1.png)
 ## DAY 3
 [day 3](https://www.tinkercad.com/things/1SX4MZ2Kp0F-terrific-hillar-blorr/editel)
+![igm](https://github.com/Ananthakrishnan0350/kunnamkulam/blob/main/IMG/day%203.png)
