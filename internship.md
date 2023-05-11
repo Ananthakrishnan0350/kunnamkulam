@@ -9,7 +9,8 @@ In day 2 we have leraned about tinkercad,it is a website that we can make our ow
 It is a sunny climate in jothys campus and lot of students in campus it is relif that we are not alone in this campus because there is project expo on is conduting here in all kerala level it is such pleasure watch new inovation by some smart students from not only jothy but also other collage students 
 ### [day 2](https://github.com/Ananthakrishnan0350/kunnamkulam/blob/main/IMG/led1.png)
 ----
-## DAY 3https://www.tinkercad.com/things/hgkn6KzBFZs-four/editel
+## DAY 3
+[Stimulation](https://www.tinkercad.com/things/hgkn6KzBFZs-four/editel)
 [day 3](https://www.tinkercad.com/things/1SX4MZ2Kp0F-terrific-hillar-blorr/editel)
 ### AND Gate 
 #### Circuit Diagram
