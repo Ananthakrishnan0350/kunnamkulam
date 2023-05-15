@@ -36,7 +36,7 @@ void loop()
   delay(1000); // Wait for 1000 millisecond(s)
   digitalWrite(LED_BUILTIN, LOW);
   delay(1000); // Wait for 1000 millisecond(s)
-}
+}https://www.tinkercad.com/things/0umwuGT12uz-analog/editel
 ```
 ### [Stimulation](https://www.tinkercad.com/things/hgkn6KzBFZs-blink/editel)
 ---
@@ -101,4 +101,23 @@ void loop()
 ```
  ### [Stimulation](https://www.tinkercad.com/things/hgkn6KzBFZs-four/editel)
  ---
+ ## Day 4
+ ---
+ ## Day 5
+ ![analog potentimeter](https://github.com/Ananthakrishnan0350/kunnamkulam/blob/main/IMG/arudno.png)
+ #### program
+ ```
+const int potpin = A0;
+
+void setup() {
+  Serial.begin(9600);
+}
+
+void loop() {
+  int potvalue = analogRead(potpin);
+  Serial.println(potvalue);
+  delay(100);
+}
+```
+### [stimulation](https://www.tinkercad.com/things/0umwuGT12uz-analog/editel)
 
