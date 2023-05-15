@@ -120,4 +120,6 @@ void loop() {
 }
 ```
 ### [stimulation](https://www.tinkercad.com/things/0umwuGT12uz-analog/editel)
+#### 7 segment 
+###![
 
