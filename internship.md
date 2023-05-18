@@ -292,4 +292,8 @@ void loop(void)
 
 ```
 [Stimulation](https://www.tinkercad.com/things/arEtaNelsyP-7-segment/editel)
+### day 6
+---
+### DAY 7
+
 
