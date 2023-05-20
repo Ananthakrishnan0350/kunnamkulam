@@ -4,7 +4,7 @@
 
 #### ![IMAGE](https://github.com/Ananthakrishnan0350/kunnamkulam/blob/main/IMG/BATTERY.png)
 ---
-### [STIMULATION](https://www.tinkercad.com/things/1qQFvXepjBf-battery-level-monitor/editel)
+### [STIMULATION](https://www.tinkercad.com/things/1qQFvXepjBf-battery-level-monitor/editel)https://github.com/Ananthakrishnan0350/kunnamkulam/blob/main/IMG/KEY.png
 ---
 ### CODE
 ```
@@ -40,7 +40,7 @@ void loop()
     temp = (analog_value * 5.0) / 1023.0; 
 
   	procent = temp*20;
-  
+  https://github.com/Ananthakrishnan0350/kunnamkulam/blob/main/IMG/KEY.png
   	potency = map(analogRead(A0), 0, 1023, 0, 270);
   
   	if(potency > 10)
@@ -67,7 +67,12 @@ void loop()
     delay(300);
 }
 ```
---
+-
 # KEY CHAIN
+---
 ## IMAGE
-![IMAGE]
+---
+![IMAGE](https://github.com/Ananthakrishnan0350/kunnamkulam/blob/main/IMG/KEY.png)
+---
+### [STIMULATION](https://www.tinkercad.com/things/kkLa7sHU2h7-heart/edit)
+
